@@ -1,0 +1,2715 @@
+
+Narrowed down to top 4 clustering methods,
+adding more cyrillic languages - belarusian and ukrainian
+with cyrillic support more turkic languages will be available
+
+
+Pair: Danish - Norwegian
+Average Similarity: 8.99
+
+Pair: Indonesian - Malay
+Average Similarity: 8.95
+
+Pair: Catalan - Spanish
+Average Similarity: 8.42
+
+Pair: Cebuano - Tagalog
+Average Similarity: 8.38
+
+Pair: Portuguese - Spanish
+Average Similarity: 8.23
+
+Pair: Afrikaans - Dutch
+Average Similarity: 8.22
+
+Pair: Catalan - French
+Average Similarity: 7.90
+
+Pair: Norwegian - Swedish
+Average Similarity: 7.89
+
+Pair: Danish - Swedish
+Average Similarity: 7.73
+
+Pair: Xhosa - Zulu
+Average Similarity: 7.71
+
+Pair: Russian - Ukrainian
+Average Similarity: 7.67
+
+Pair: French - Spanish
+Average Similarity: 7.65
+
+Pair: Catalan - Portuguese
+Average Similarity: 7.57
+
+Pair: Maori - Samoan
+Average Similarity: 7.51
+
+Pair: Indonesian - Javanese
+Average Similarity: 7.46
+
+Pair: Belarusian - Ukrainian
+Average Similarity: 7.41
+
+Pair: Russian - Serbian
+Average Similarity: 7.39
+
+Pair: French - Portuguese
+Average Similarity: 7.31
+
+Pair: Italian - Portuguese
+Average Similarity: 7.30
+
+Pair: English - Nigerian Pidgin
+Average Similarity: 7.24
+
+Pair: Hawaiian - Maori
+Average Similarity: 7.22
+
+Pair: Italian - Spanish
+Average Similarity: 7.22
+
+Pair: Dutch - German
+Average Similarity: 7.20
+
+Pair: Javanese - Malay
+Average Similarity: 7.20
+
+Pair: Cebuano - Ilocano
+Average Similarity: 7.10
+
+Pair: French - Romanian
+Average Similarity: 7.09
+
+Pair: Catalan - Romanian
+Average Similarity: 7.09
+
+Pair: Catalan - Italian
+Average Similarity: 7.07
+
+Pair: Hawaiian - Samoan
+Average Similarity: 7.01
+
+Pair: Serbian - Ukrainian
+Average Similarity: 6.95
+
+Pair: Romanian - Spanish
+Average Similarity: 6.93
+
+Pair: Belarusian - Russian
+Average Similarity: 6.84
+
+Pair: Ilocano - Tagalog
+Average Similarity: 6.75
+
+Pair: English - French
+Average Similarity: 6.69
+
+Pair: French - Italian
+Average Similarity: 6.65
+
+Pair: Italian - Romanian
+Average Similarity: 6.61
+
+Pair: Danish - Dutch
+Average Similarity: 6.57
+
+Pair: Afrikaans - German
+Average Similarity: 6.54
+
+Pair: Portuguese - Romanian
+Average Similarity: 6.51
+
+Pair: Belarusian - Serbian
+Average Similarity: 6.46
+
+Pair: Dutch - Swedish
+Average Similarity: 6.43
+
+Pair: Dutch - Norwegian
+Average Similarity: 6.37
+
+Pair: Belarusian - Polish
+Average Similarity: 6.33
+
+Pair: Afrikaans - Danish
+Average Similarity: 6.31
+
+Pair: Javanese - Tagalog
+Average Similarity: 6.30
+
+Pair: Afrikaans - Norwegian
+Average Similarity: 6.27
+
+Pair: Catalan - English
+Average Similarity: 6.27
+
+Pair: Danish - German
+Average Similarity: 6.26
+
+Pair: English - Italian
+Average Similarity: 6.25
+
+Pair: Italian - Samoan
+Average Similarity: 6.16
+
+Pair: Cebuano - Javanese
+Average Similarity: 6.10
+
+Pair: English - Spanish
+Average Similarity: 6.10
+
+Pair: German - Norwegian
+Average Similarity: 6.09
+
+Pair: Czech - Russian
+Average Similarity: 6.09
+
+Pair: Catalan - Samoan
+Average Similarity: 6.09
+
+Pair: Afrikaans - Swedish
+Average Similarity: 6.08
+
+Pair: Czech - Serbian
+Average Similarity: 6.08
+
+Pair: Afrikaans - English
+Average Similarity: 6.07
+
+Pair: Czech - Ukrainian
+Average Similarity: 6.05
+
+Pair: Maori - Swahili
+Average Similarity: 6.04
+
+Pair: Hawaiian - Ilocano
+Average Similarity: 6.01
+
+Pair: Indonesian - Tagalog
+Average Similarity: 5.97
+
+Pair: Polish - Serbian
+Average Similarity: 5.93
+
+Pair: Samoan - Serbian
+Average Similarity: 5.92
+
+Pair: Icelandic - Norwegian
+Average Similarity: 5.92
+
+Pair: Azerbaijani - Turkmen
+Average Similarity: 5.89
+
+Pair: Turkish - Turkmen
+Average Similarity: 5.88
+
+Pair: Hawaiian - Swahili
+Average Similarity: 5.88
+
+Pair: Polish - Russian
+Average Similarity: 5.87
+
+Pair: Azerbaijani - Turkish
+Average Similarity: 5.87
+
+Pair: Malay - Tagalog
+Average Similarity: 5.87
+
+Pair: Italian - Nigerian Pidgin
+Average Similarity: 5.86
+
+Pair: Danish - Icelandic
+Average Similarity: 5.85
+
+Pair: Polish - Ukrainian
+Average Similarity: 5.84
+
+Pair: German - Swedish
+Average Similarity: 5.83
+
+Pair: Portuguese - Samoan
+Average Similarity: 5.82
+
+Pair: Dutch - English
+Average Similarity: 5.81
+
+Pair: Swahili - Tongan
+Average Similarity: 5.76
+
+Pair: Dutch - French
+Average Similarity: 5.75
+
+Pair: Dutch - Spanish
+Average Similarity: 5.75
+
+Pair: English - Romanian
+Average Similarity: 5.74
+
+Pair: Afrikaans - French
+Average Similarity: 5.74
+
+Pair: Hawaiian - Serbian
+Average Similarity: 5.74
+
+Pair: Ilocano - Maori
+Average Similarity: 5.72
+
+Pair: Greek - Samoan
+Average Similarity: 5.69
+
+Pair: Cebuano - Indonesian
+Average Similarity: 5.68
+
+Pair: Samoan - Ukrainian
+Average Similarity: 5.68
+
+Pair: Greek - Maori
+Average Similarity: 5.66
+
+Pair: Cebuano - Malay
+Average Similarity: 5.65
+
+Pair: French - Nigerian Pidgin
+Average Similarity: 5.63
+
+Pair: Cebuano - Samoan
+Average Similarity: 5.62
+
+Pair: Ilocano - Javanese
+Average Similarity: 5.61
+
+Pair: Catalan - Danish
+Average Similarity: 5.61
+
+Pair: English - Portuguese
+Average Similarity: 5.61
+
+Pair: Catalan - Nigerian Pidgin
+Average Similarity: 5.60
+
+Pair: Catalan - Swedish
+Average Similarity: 5.59
+
+Pair: Afrikaans - Spanish
+Average Similarity: 5.58
+
+Pair: Catalan - Hawaiian
+Average Similarity: 5.57
+
+Pair: Catalan - Dutch
+Average Similarity: 5.56
+
+Pair: Belarusian - Samoan
+Average Similarity: 5.56
+
+Pair: Ilocano - Malay
+Average Similarity: 5.56
+
+Pair: Danish - English
+Average Similarity: 5.54
+
+Pair: English - Norwegian
+Average Similarity: 5.53
+
+Pair: Catalan - Norwegian
+Average Similarity: 5.52
+
+Pair: Samoan - Swahili
+Average Similarity: 5.51
+
+Pair: Ilocano - Spanish
+Average Similarity: 5.51
+
+Pair: Belarusian - Hawaiian
+Average Similarity: 5.51
+
+Pair: Nigerian Pidgin - Romanian
+Average Similarity: 5.51
+
+Pair: Samoan - Spanish
+Average Similarity: 5.50
+
+Pair: Nigerian Pidgin - Spanish
+Average Similarity: 5.50
+
+Pair: English - German
+Average Similarity: 5.49
+
+Pair: Hawaiian - Ukrainian
+Average Similarity: 5.49
+
+Pair: Greek - Hawaiian
+Average Similarity: 5.48
+
+Pair: Catalan - Maori
+Average Similarity: 5.48
+
+Pair: Ilocano - Indonesian
+Average Similarity: 5.47
+
+Pair: Greek - Swahili
+Average Similarity: 5.46
+
+Pair: Afrikaans - Catalan
+Average Similarity: 5.45
+
+Pair: Nigerian Pidgin - Portuguese
+Average Similarity: 5.45
+
+Pair: Catalan - Ilocano
+Average Similarity: 5.45
+
+Pair: Danish - French
+Average Similarity: 5.45
+
+Pair: Catalan - Serbian
+Average Similarity: 5.43
+
+Pair: Russian - Samoan
+Average Similarity: 5.43
+
+Pair: Maori - Serbian
+Average Similarity: 5.43
+
+Pair: Swahili - Tagalog
+Average Similarity: 5.42
+
+Pair: Samoan - Tagalog
+Average Similarity: 5.41
+
+Pair: Hawaiian - Portuguese
+Average Similarity: 5.39
+
+Pair: Maori - Portuguese
+Average Similarity: 5.38
+
+Pair: Polish - Samoan
+Average Similarity: 5.38
+
+Pair: English - Swedish
+Average Similarity: 5.38
+
+Pair: Dutch - Nigerian Pidgin
+Average Similarity: 5.37
+
+Pair: Italian - Maori
+Average Similarity: 5.37
+
+Pair: Greek - Ilocano
+Average Similarity: 5.34
+
+Pair: French - Swedish
+Average Similarity: 5.33
+
+Pair: Malagasy - Swahili
+Average Similarity: 5.33
+
+Pair: Serbian - Swahili
+Average Similarity: 5.32
+
+Pair: Hawaiian - Spanish
+Average Similarity: 5.32
+
+Pair: Afrikaans - Nigerian Pidgin
+Average Similarity: 5.30
+
+Pair: Romanian - Samoan
+Average Similarity: 5.30
+
+Pair: French - Norwegian
+Average Similarity: 5.30
+
+Pair: Afrikaans - Romanian
+Average Similarity: 5.29
+
+Pair: Hawaiian - Malagasy
+Average Similarity: 5.29
+
+Pair: Catalan - Russian
+Average Similarity: 5.28
+
+Pair: Hawaiian - Italian
+Average Similarity: 5.28
+
+Pair: Ilocano - Swahili
+Average Similarity: 5.26
+
+Pair: Malagasy - Tagalog
+Average Similarity: 5.26
+
+Pair: Afrikaans - Italian
+Average Similarity: 5.25
+
+Pair: Hawaiian - Polish
+Average Similarity: 5.25
+
+Pair: Hawaiian - Russian
+Average Similarity: 5.24
+
+Pair: Tongan - Xhosa
+Average Similarity: 5.24
+
+Pair: Maori - Ukrainian
+Average Similarity: 5.23
+
+Pair: Ilocano - Samoan
+Average Similarity: 5.23
+
+Pair: Cebuano - Maori
+Average Similarity: 5.22
+
+Pair: Nigerian Pidgin - Norwegian
+Average Similarity: 5.22
+
+Pair: Maori - Tagalog
+Average Similarity: 5.22
+
+Pair: Belarusian - Maori
+Average Similarity: 5.21
+
+Pair: Albanian - Samoan
+Average Similarity: 5.21
+
+Pair: Spanish - Swedish
+Average Similarity: 5.20
+
+Pair: Cebuano - Swahili
+Average Similarity: 5.19
+
+Pair: Belarusian - Czech
+Average Similarity: 5.19
+
+Pair: Dutch - Romanian
+Average Similarity: 5.18
+
+Pair: Javanese - Swahili
+Average Similarity: 5.17
+
+Pair: Catalan - Ukrainian
+Average Similarity: 5.16
+
+Pair: Albanian - Italian
+Average Similarity: 5.16
+
+Pair: Ilocano - Portuguese
+Average Similarity: 5.15
+
+Pair: Tongan - Zulu
+Average Similarity: 5.14
+
+Pair: Czech - Polish
+Average Similarity: 5.13
+
+Pair: Hungarian - Ilocano
+Average Similarity: 5.12
+
+Pair: English - Greek
+Average Similarity: 5.12
+
+Pair: Cebuano - Hawaiian
+Average Similarity: 5.11
+
+Pair: Danish - Spanish
+Average Similarity: 5.10
+
+Pair: Greek - Nigerian Pidgin
+Average Similarity: 5.10
+
+Pair: Danish - Nigerian Pidgin
+Average Similarity: 5.09
+
+Pair: Ilocano - Italian
+Average Similarity: 5.09
+
+Pair: Greek - Serbian
+Average Similarity: 5.09
+
+Pair: Belarusian - Catalan
+Average Similarity: 5.06
+
+Pair: Norwegian - Spanish
+Average Similarity: 5.06
+
+Pair: Maori - Russian
+Average Similarity: 5.06
+
+Pair: Albanian - Catalan
+Average Similarity: 5.06
+
+Pair: German - Nigerian Pidgin
+Average Similarity: 5.06
+
+Pair: French - German
+Average Similarity: 5.05
+
+Pair: Albanian - Hawaiian
+Average Similarity: 5.05
+
+Pair: Belarusian - Swahili
+Average Similarity: 5.04
+
+Pair: Catalan - Hungarian
+Average Similarity: 5.04
+
+Pair: Albanian - Maori
+Average Similarity: 5.03
+
+Pair: Hawaiian - Romanian
+Average Similarity: 5.02
+
+Pair: Catalan - Czech
+Average Similarity: 5.02
+
+Pair: Swahili - Ukrainian
+Average Similarity: 5.01
+
+Pair: Italian - Norwegian
+Average Similarity: 5.01
+
+Pair: Albanian - Romanian
+Average Similarity: 4.99
+
+Pair: Norwegian - Romanian
+Average Similarity: 4.98
+
+Pair: Finnish - Ilocano
+Average Similarity: 4.98
+
+Pair: Ilocano - Malagasy
+Average Similarity: 4.98
+
+Pair: Albanian - Portuguese
+Average Similarity: 4.98
+
+Pair: Hungarian - Spanish
+Average Similarity: 4.98
+
+Pair: Czech - Spanish
+Average Similarity: 4.97
+
+Pair: French - Samoan
+Average Similarity: 4.97
+
+Pair: Maori - Polish
+Average Similarity: 4.97
+
+Pair: Icelandic - Swedish
+Average Similarity: 4.95
+
+Pair: Malagasy - Samoan
+Average Similarity: 4.94
+
+Pair: Ilocano - Serbian
+Average Similarity: 4.93
+
+Pair: Dutch - Portuguese
+Average Similarity: 4.93
+
+Pair: Danish - Romanian
+Average Similarity: 4.91
+
+Pair: Italian - Serbian
+Average Similarity: 4.89
+
+Pair: German - Italian
+Average Similarity: 4.89
+
+Pair: Cebuano - Romanian
+Average Similarity: 4.89
+
+Pair: Albanian - French
+Average Similarity: 4.89
+
+Pair: Czech - Hawaiian
+Average Similarity: 4.88
+
+Pair: Catalan - Polish
+Average Similarity: 4.88
+
+Pair: Malagasy - Maori
+Average Similarity: 4.88
+
+Pair: German - Spanish
+Average Similarity: 4.88
+
+Pair: Catalan - Greek
+Average Similarity: 4.88
+
+Pair: Spanish - Tagalog
+Average Similarity: 4.87
+
+Pair: Ilocano - Romanian
+Average Similarity: 4.86
+
+Pair: Nigerian Pidgin - Swedish
+Average Similarity: 4.86
+
+Pair: Javanese - Maori
+Average Similarity: 4.86
+
+Pair: Czech - Portuguese
+Average Similarity: 4.85
+
+Pair: Swahili - Xhosa
+Average Similarity: 4.84
+
+Pair: Maori - Romanian
+Average Similarity: 4.84
+
+Pair: Afrikaans - Indonesian
+Average Similarity: 4.84
+
+Pair: Hawaiian - Tagalog
+Average Similarity: 4.84
+
+Pair: Cebuano - Malagasy
+Average Similarity: 4.83
+
+Pair: Dutch - Hungarian
+Average Similarity: 4.83
+
+Pair: Italian - Swedish
+Average Similarity: 4.83
+
+Pair: French - Ilocano
+Average Similarity: 4.82
+
+Pair: Afrikaans - Javanese
+Average Similarity: 4.82
+
+Pair: Cebuano - Finnish
+Average Similarity: 4.80
+
+Pair: Nigerian Pidgin - Samoan
+Average Similarity: 4.80
+
+Pair: Danish - Italian
+Average Similarity: 4.80
+
+Pair: Czech - Ilocano
+Average Similarity: 4.80
+
+Pair: Maori - Spanish
+Average Similarity: 4.80
+
+Pair: Catalan - German
+Average Similarity: 4.79
+
+Pair: Hawaiian - Tongan
+Average Similarity: 4.79
+
+Pair: Albanian - English
+Average Similarity: 4.78
+
+Pair: Dutch - Italian
+Average Similarity: 4.77
+
+Pair: Greek - Russian
+Average Similarity: 4.77
+
+Pair: Greek - Tagalog
+Average Similarity: 4.77
+
+Pair: Dutch - Indonesian
+Average Similarity: 4.77
+
+Pair: Spanish - Turkmen
+Average Similarity: 4.75
+
+Pair: Cebuano - Spanish
+Average Similarity: 4.75
+
+Pair: Cebuano - Italian
+Average Similarity: 4.75
+
+Pair: Greek - Italian
+Average Similarity: 4.75
+
+Pair: Cebuano - French
+Average Similarity: 4.74
+
+Pair: Romanian - Swedish
+Average Similarity: 4.74
+
+Pair: Finnish - Samoan
+Average Similarity: 4.74
+
+Pair: Malay - Swahili
+Average Similarity: 4.73
+
+Pair: Catalan - Cebuano
+Average Similarity: 4.73
+
+Pair: Portuguese - Serbian
+Average Similarity: 4.73
+
+Pair: Belarusian - Malagasy
+Average Similarity: 4.71
+
+Pair: Albanian - Spanish
+Average Similarity: 4.70
+
+Pair: Afrikaans - Portuguese
+Average Similarity: 4.69
+
+Pair: Albanian - Nigerian Pidgin
+Average Similarity: 4.68
+
+Pair: Albanian - Greek
+Average Similarity: 4.67
+
+Pair: Dutch - Ilocano
+Average Similarity: 4.67
+
+Pair: English - Ilocano
+Average Similarity: 4.67
+
+Pair: Malay - Turkmen
+Average Similarity: 4.67
+
+Pair: Dutch - Malay
+Average Similarity: 4.66
+
+Pair: Afrikaans - Malay
+Average Similarity: 4.66
+
+Pair: Greek - Spanish
+Average Similarity: 4.66
+
+Pair: Greek - Portuguese
+Average Similarity: 4.65
+
+Pair: Greek - Ukrainian
+Average Similarity: 4.65
+
+Pair: German - Romanian
+Average Similarity: 4.65
+
+Pair: Tagalog - Tongan
+Average Similarity: 4.65
+
+Pair: Danish - Portuguese
+Average Similarity: 4.64
+
+Pair: Dutch - Javanese
+Average Similarity: 4.63
+
+Pair: Samoan - Swedish
+Average Similarity: 4.63
+
+Pair: Russian - Swahili
+Average Similarity: 4.63
+
+Pair: Malay - Samoan
+Average Similarity: 4.62
+
+Pair: Malay - Maori
+Average Similarity: 4.62
+
+Pair: Afrikaans - Albanian
+Average Similarity: 4.62
+
+Pair: Romanian - Serbian
+Average Similarity: 4.62
+
+Pair: Malagasy - Malay
+Average Similarity: 4.62
+
+Pair: Swahili - Zulu
+Average Similarity: 4.62
+
+Pair: Hungarian - Portuguese
+Average Similarity: 4.62
+
+Pair: Ilocano - Tongan
+Average Similarity: 4.61
+
+Pair: Czech - Samoan
+Average Similarity: 4.61
+
+Pair: Javanese - Malagasy
+Average Similarity: 4.61
+
+Pair: Indonesian - Samoan
+Average Similarity: 4.61
+
+Pair: Italian - Russian
+Average Similarity: 4.61
+
+Pair: Serbian - Spanish
+Average Similarity: 4.60
+
+Pair: Samoan - Xhosa
+Average Similarity: 4.60
+
+Pair: Finnish - Swedish
+Average Similarity: 4.60
+
+Pair: Indonesian - Swahili
+Average Similarity: 4.59
+
+Pair: Belarusian - Greek
+Average Similarity: 4.59
+
+Pair: Nigerian Pidgin - Tagalog
+Average Similarity: 4.59
+
+Pair: Albanian - Ilocano
+Average Similarity: 4.58
+
+Pair: Ilocano - Swedish
+Average Similarity: 4.58
+
+Pair: Indonesian - Italian
+Average Similarity: 4.58
+
+Pair: Afrikaans - Ilocano
+Average Similarity: 4.57
+
+Pair: Maori - Nigerian Pidgin
+Average Similarity: 4.57
+
+Pair: Dutch - Finnish
+Average Similarity: 4.56
+
+Pair: Indonesian - Turkmen
+Average Similarity: 4.56
+
+Pair: Javanese - Tongan
+Average Similarity: 4.56
+
+Pair: French - Hungarian
+Average Similarity: 4.56
+
+Pair: Cebuano - Serbian
+Average Similarity: 4.55
+
+Pair: Finnish - Tagalog
+Average Similarity: 4.55
+
+Pair: Greek - Malagasy
+Average Similarity: 4.55
+
+Pair: Albanian - Norwegian
+Average Similarity: 4.54
+
+Pair: Cebuano - Tongan
+Average Similarity: 4.54
+
+Pair: Finnish - Greek
+Average Similarity: 4.54
+
+Pair: Indonesian - Nigerian Pidgin
+Average Similarity: 4.54
+
+Pair: Dutch - Turkmen
+Average Similarity: 4.54
+
+Pair: French - Greek
+Average Similarity: 4.53
+
+Pair: Serbian - Tagalog
+Average Similarity: 4.53
+
+Pair: Javanese - Swedish
+Average Similarity: 4.53
+
+Pair: Afrikaans - Hungarian
+Average Similarity: 4.53
+
+Pair: Ilocano - Nigerian Pidgin
+Average Similarity: 4.52
+
+Pair: Javanese - Turkish
+Average Similarity: 4.52
+
+Pair: English - Tagalog
+Average Similarity: 4.52
+
+Pair: Romanian - Tagalog
+Average Similarity: 4.51
+
+Pair: Catalan - Tagalog
+Average Similarity: 4.51
+
+Pair: Czech - Swahili
+Average Similarity: 4.51
+
+Pair: Catalan - Turkmen
+Average Similarity: 4.51
+
+Pair: French - Turkmen
+Average Similarity: 4.51
+
+Pair: Malay - Turkish
+Average Similarity: 4.50
+
+Pair: English - Javanese
+Average Similarity: 4.50
+
+Pair: Catalan - Finnish
+Average Similarity: 4.50
+
+Pair: Cebuano - Greek
+Average Similarity: 4.49
+
+Pair: Italian - Swahili
+Average Similarity: 4.49
+
+Pair: Maori - Tongan
+Average Similarity: 4.48
+
+Pair: Afrikaans - Maori
+Average Similarity: 4.48
+
+Pair: Hawaiian - Hungarian
+Average Similarity: 4.48
+
+Pair: German - Indonesian
+Average Similarity: 4.48
+
+Pair: Czech - Greek
+Average Similarity: 4.48
+
+Pair: Portuguese - Turkmen
+Average Similarity: 4.48
+
+Pair: Malagasy - Ukrainian
+Average Similarity: 4.48
+
+Pair: Indonesian - Turkish
+Average Similarity: 4.47
+
+Pair: Italian - Tagalog
+Average Similarity: 4.47
+
+Pair: Czech - Romanian
+Average Similarity: 4.47
+
+Pair: English - Maori
+Average Similarity: 4.47
+
+Pair: French - Tagalog
+Average Similarity: 4.46
+
+Pair: Italian - Malay
+Average Similarity: 4.46
+
+Pair: Javanese - Samoan
+Average Similarity: 4.46
+
+Pair: Norwegian - Portuguese
+Average Similarity: 4.46
+
+Pair: Belarusian - Ilocano
+Average Similarity: 4.46
+
+Pair: Hawaiian - Javanese
+Average Similarity: 4.45
+
+Pair: Indonesian - Maori
+Average Similarity: 4.44
+
+Pair: Samoan - Tongan
+Average Similarity: 4.44
+
+Pair: Afrikaans - Finnish
+Average Similarity: 4.44
+
+Pair: Albanian - Serbian
+Average Similarity: 4.44
+
+Pair: Javanese - Norwegian
+Average Similarity: 4.44
+
+Pair: Nigerian Pidgin - Turkmen
+Average Similarity: 4.43
+
+Pair: Albanian - Danish
+Average Similarity: 4.42
+
+Pair: Afrikaans - Turkish
+Average Similarity: 4.42
+
+Pair: Indonesian - Swedish
+Average Similarity: 4.41
+
+Pair: Cebuano - Nigerian Pidgin
+Average Similarity: 4.41
+
+Pair: Italian - Javanese
+Average Similarity: 4.41
+
+Pair: Javanese - Serbian
+Average Similarity: 4.41
+
+Pair: Norwegian - Samoan
+Average Similarity: 4.40
+
+Pair: Czech - Hungarian
+Average Similarity: 4.40
+
+Pair: Dutch - Maori
+Average Similarity: 4.40
+
+Pair: Indonesian - Malagasy
+Average Similarity: 4.40
+
+Pair: Italian - Ukrainian
+Average Similarity: 4.40
+
+Pair: Malay - Nigerian Pidgin
+Average Similarity: 4.40
+
+Pair: Cebuano - English
+Average Similarity: 4.40
+
+Pair: Javanese - Turkmen
+Average Similarity: 4.40
+
+Pair: Belarusian - Tagalog
+Average Similarity: 4.40
+
+Pair: Czech - French
+Average Similarity: 4.39
+
+Pair: Cebuano - Norwegian
+Average Similarity: 4.39
+
+Pair: German - Malay
+Average Similarity: 4.39
+
+Pair: Indonesian - Norwegian
+Average Similarity: 4.39
+
+Pair: Catalan - Indonesian
+Average Similarity: 4.38
+
+Pair: Danish - Samoan
+Average Similarity: 4.38
+
+Pair: Javanese - Spanish
+Average Similarity: 4.38
+
+Pair: Romanian - Turkmen
+Average Similarity: 4.38
+
+Pair: Albanian - Swedish
+Average Similarity: 4.38
+
+Pair: Portuguese - Swedish
+Average Similarity: 4.38
+
+Pair: Greek - Polish
+Average Similarity: 4.37
+
+Pair: Cebuano - Portuguese
+Average Similarity: 4.36
+
+Pair: Hungarian - Romanian
+Average Similarity: 4.36
+
+Pair: Czech - Italian
+Average Similarity: 4.36
+
+Pair: Malagasy - Serbian
+Average Similarity: 4.36
+
+Pair: Norwegian - Turkish
+Average Similarity: 4.35
+
+Pair: French - Hawaiian
+Average Similarity: 4.35
+
+Pair: German - Javanese
+Average Similarity: 4.35
+
+Pair: Afrikaans - Cebuano
+Average Similarity: 4.34
+
+Pair: Finnish - Swahili
+Average Similarity: 4.34
+
+Pair: Ilocano - Norwegian
+Average Similarity: 4.33
+
+Pair: Finnish - Maori
+Average Similarity: 4.33
+
+Pair: Albanian - Dutch
+Average Similarity: 4.33
+
+Pair: Finnish - French
+Average Similarity: 4.31
+
+Pair: Javanese - Romanian
+Average Similarity: 4.31
+
+Pair: Javanese - Xhosa
+Average Similarity: 4.31
+
+Pair: Romanian - Swahili
+Average Similarity: 4.31
+
+Pair: Hawaiian - Malay
+Average Similarity: 4.30
+
+Pair: Belarusian - Italian
+Average Similarity: 4.29
+
+Pair: Norwegian - Serbian
+Average Similarity: 4.29
+
+Pair: Catalan - Javanese
+Average Similarity: 4.29
+
+Pair: Afrikaans - Greek
+Average Similarity: 4.29
+
+Pair: Malay - Swedish
+Average Similarity: 4.29
+
+Pair: Dutch - Turkish
+Average Similarity: 4.28
+
+Pair: Cebuano - Icelandic
+Average Similarity: 4.28
+
+Pair: Norwegian - Turkmen
+Average Similarity: 4.28
+
+Pair: Indonesian - Spanish
+Average Similarity: 4.28
+
+Pair: Ilocano - Turkmen
+Average Similarity: 4.28
+
+Pair: Afrikaans - Tagalog
+Average Similarity: 4.27
+
+Pair: Swahili - Turkish
+Average Similarity: 4.27
+
+Pair: Maori - Swedish
+Average Similarity: 4.27
+
+Pair: French - Serbian
+Average Similarity: 4.27
+
+Pair: Javanese - Nigerian Pidgin
+Average Similarity: 4.26
+
+Pair: Serbian - Swedish
+Average Similarity: 4.26
+
+Pair: Portuguese - Russian
+Average Similarity: 4.26
+
+Pair: English - Indonesian
+Average Similarity: 4.26
+
+Pair: Icelandic - Ilocano
+Average Similarity: 4.25
+
+Pair: Catalan - Swahili
+Average Similarity: 4.25
+
+Pair: Hungarian - Samoan
+Average Similarity: 4.25
+
+Pair: Italian - Turkmen
+Average Similarity: 4.24
+
+Pair: Malay - Spanish
+Average Similarity: 4.23
+
+Pair: Catalan - Malay
+Average Similarity: 4.23
+
+Pair: Greek - Romanian
+Average Similarity: 4.23
+
+Pair: Afrikaans - Turkmen
+Average Similarity: 4.23
+
+Pair: Finnish - Italian
+Average Similarity: 4.23
+
+Pair: Finnish - Malay
+Average Similarity: 4.23
+
+Pair: Polish - Swahili
+Average Similarity: 4.22
+
+Pair: English - Finnish
+Average Similarity: 4.22
+
+Pair: Indonesian - Serbian
+Average Similarity: 4.22
+
+Pair: Romanian - Russian
+Average Similarity: 4.22
+
+Pair: Ilocano - Ukrainian
+Average Similarity: 4.22
+
+Pair: Swedish - Tagalog
+Average Similarity: 4.22
+
+Pair: Danish - Maori
+Average Similarity: 4.22
+
+Pair: English - Samoan
+Average Similarity: 4.22
+
+Pair: Azerbaijani - Swahili
+Average Similarity: 4.22
+
+Pair: Belarusian - Cebuano
+Average Similarity: 4.21
+
+Pair: Malay - Tongan
+Average Similarity: 4.21
+
+Pair: Czech - Maori
+Average Similarity: 4.21
+
+Pair: German - Portuguese
+Average Similarity: 4.21
+
+Pair: German - Turkmen
+Average Similarity: 4.21
+
+Pair: Malay - Serbian
+Average Similarity: 4.21
+
+Pair: Norwegian - Russian
+Average Similarity: 4.21
+
+Pair: Hungarian - Italian
+Average Similarity: 4.21
+
+Pair: Danish - Ilocano
+Average Similarity: 4.21
+
+Pair: French - Javanese
+Average Similarity: 4.21
+
+Pair: Greek - Indonesian
+Average Similarity: 4.20
+
+Pair: Greek - Javanese
+Average Similarity: 4.20
+
+Pair: Italian - Polish
+Average Similarity: 4.20
+
+Pair: Swedish - Turkmen
+Average Similarity: 4.19
+
+Pair: Hungarian - Indonesian
+Average Similarity: 4.19
+
+Pair: Ilocano - Zulu
+Average Similarity: 4.19
+
+Pair: Cebuano - Swedish
+Average Similarity: 4.18
+
+Pair: Greek - Norwegian
+Average Similarity: 4.18
+
+Pair: Polish - Portuguese
+Average Similarity: 4.18
+
+Pair: Indonesian - Romanian
+Average Similarity: 4.17
+
+Pair: Malay - Norwegian
+Average Similarity: 4.17
+
+Pair: Ilocano - Russian
+Average Similarity: 4.17
+
+Pair: Malagasy - Nigerian Pidgin
+Average Similarity: 4.17
+
+Pair: Portuguese - Ukrainian
+Average Similarity: 4.16
+
+Pair: Finnish - Indonesian
+Average Similarity: 4.16
+
+Pair: Albanian - Russian
+Average Similarity: 4.16
+
+Pair: Danish - Hawaiian
+Average Similarity: 4.16
+
+Pair: Greek - Swedish
+Average Similarity: 4.16
+
+Pair: Javanese - Zulu
+Average Similarity: 4.16
+
+Pair: Danish - Tagalog
+Average Similarity: 4.15
+
+Pair: French - Indonesian
+Average Similarity: 4.15
+
+Pair: German - Turkish
+Average Similarity: 4.15
+
+Pair: Nigerian Pidgin - Serbian
+Average Similarity: 4.15
+
+Pair: Samoan - Zulu
+Average Similarity: 4.15
+
+Pair: Cebuano - Danish
+Average Similarity: 4.15
+
+Pair: Maori - Norwegian
+Average Similarity: 4.14
+
+Pair: Spanish - Ukrainian
+Average Similarity: 4.14
+
+Pair: Hungarian - Malay
+Average Similarity: 4.14
+
+Pair: Spanish - Xhosa
+Average Similarity: 4.14
+
+Pair: Swahili - Turkmen
+Average Similarity: 4.14
+
+Pair: Finnish - German
+Average Similarity: 4.14
+
+Pair: Spanish - Swahili
+Average Similarity: 4.14
+
+Pair: Nigerian Pidgin - Swahili
+Average Similarity: 4.13
+
+Pair: Finnish - Spanish
+Average Similarity: 4.13
+
+Pair: Italian - Turkish
+Average Similarity: 4.13
+
+Pair: Danish - Turkish
+Average Similarity: 4.13
+
+Pair: English - Malay
+Average Similarity: 4.12
+
+Pair: Russian - Swedish
+Average Similarity: 4.12
+
+Pair: Danish - Russian
+Average Similarity: 4.12
+
+Pair: Hawaiian - Xhosa
+Average Similarity: 4.12
+
+Pair: Hawaiian - Nigerian Pidgin
+Average Similarity: 4.12
+
+Pair: Icelandic - Samoan
+Average Similarity: 4.12
+
+Pair: Hawaiian - Swedish
+Average Similarity: 4.11
+
+Pair: Javanese - Korean
+Average Similarity: 4.11
+
+Pair: Danish - Javanese
+Average Similarity: 4.10
+
+Pair: Finnish - Tongan
+Average Similarity: 4.10
+
+Pair: Azerbaijani - Malay
+Average Similarity: 4.10
+
+Pair: Tagalog - Ukrainian
+Average Similarity: 4.10
+
+Pair: Greek - Malay
+Average Similarity: 4.10
+
+Pair: Greek - Icelandic
+Average Similarity: 4.10
+
+Pair: Polish - Tagalog
+Average Similarity: 4.09
+
+Pair: Belarusian - Romanian
+Average Similarity: 4.09
+
+Pair: Finnish - Norwegian
+Average Similarity: 4.09
+
+Pair: Russian - Spanish
+Average Similarity: 4.09
+
+Pair: Polish - Romanian
+Average Similarity: 4.08
+
+Pair: Portuguese - Tagalog
+Average Similarity: 4.08
+
+Pair: Ilocano - Xhosa
+Average Similarity: 4.08
+
+Pair: Azerbaijani - Indonesian
+Average Similarity: 4.08
+
+Pair: Indonesian - Tongan
+Average Similarity: 4.08
+
+Pair: Hawaiian - Zulu
+Average Similarity: 4.08
+
+Pair: Belarusian - Spanish
+Average Similarity: 4.07
+
+Pair: Samoan - Turkish
+Average Similarity: 4.06
+
+Pair: Swedish - Turkish
+Average Similarity: 4.06
+
+Pair: Italian - Malagasy
+Average Similarity: 4.06
+
+Pair: Serbian - Turkmen
+Average Similarity: 4.06
+
+Pair: Albanian - Cebuano
+Average Similarity: 4.06
+
+Pair: Finnish - Javanese
+Average Similarity: 4.05
+
+Pair: English - Malagasy
+Average Similarity: 4.05
+
+Pair: Malay - Romanian
+Average Similarity: 4.04
+
+Pair: Albanian - German
+Average Similarity: 4.04
+
+Pair: Hawaiian - Norwegian
+Average Similarity: 4.03
+
+Pair: Spanish - Turkish
+Average Similarity: 4.03
+
+Pair: German - Icelandic
+Average Similarity: 4.03
+
+Pair: Finnish - Hungarian
+Average Similarity: 4.03
+
+Pair: Hungarian - Norwegian
+Average Similarity: 4.02
+
+Pair: Romanian - Ukrainian
+Average Similarity: 4.02
+
+Pair: Polish - Spanish
+Average Similarity: 4.02
+
+Pair: Azerbaijani - Cebuano
+Average Similarity: 4.01
+
+Pair: Danish - Greek
+Average Similarity: 4.01
+
+Pair: Malagasy - Spanish
+Average Similarity: 4.01
+
+Pair: Malagasy - Russian
+Average Similarity: 4.01
+
+Pair: Romanian - Turkish
+Average Similarity: 4.00
+
+Pair: French - Xhosa
+Average Similarity: 4.00
+
+Pair: Finnish - Romanian
+Average Similarity: 4.00
+
+Pair: Czech - English
+Average Similarity: 4.00
+
+Pair: German - Hungarian
+Average Similarity: 4.00
+
+Pair: French - Turkish
+Average Similarity: 4.00
+
+Pair: Azerbaijani - Ilocano
+Average Similarity: 3.99
+
+Pair: Italian - Xhosa
+Average Similarity: 3.99
+
+Pair: Hungarian - Javanese
+Average Similarity: 3.99
+
+Pair: Hungarian - Swedish
+Average Similarity: 3.99
+
+Pair: Ilocano - Turkish
+Average Similarity: 3.99
+
+Pair: Danish - Serbian
+Average Similarity: 3.99
+
+Pair: Belarusian - Portuguese
+Average Similarity: 3.99
+
+Pair: Indonesian - Portuguese
+Average Similarity: 3.99
+
+Pair: German - Ilocano
+Average Similarity: 3.99
+
+Pair: English - Hungarian
+Average Similarity: 3.99
+
+Pair: Azerbaijani - Javanese
+Average Similarity: 3.99
+
+Pair: Korean - Malay
+Average Similarity: 3.98
+
+Pair: Cebuano - Xhosa
+Average Similarity: 3.98
+
+Pair: Danish - Indonesian
+Average Similarity: 3.98
+
+Pair: French - Russian
+Average Similarity: 3.97
+
+Pair: Afrikaans - Icelandic
+Average Similarity: 3.97
+
+Pair: Dutch - Tagalog
+Average Similarity: 3.97
+
+Pair: Portuguese - Swahili
+Average Similarity: 3.96
+
+Pair: Catalan - Icelandic
+Average Similarity: 3.96
+
+Pair: Danish - Turkmen
+Average Similarity: 3.96
+
+Pair: Cebuano - Turkmen
+Average Similarity: 3.96
+
+Pair: Hawaiian - Indonesian
+Average Similarity: 3.96
+
+Pair: French - Maori
+Average Similarity: 3.96
+
+Pair: Czech - Tagalog
+Average Similarity: 3.95
+
+Pair: Nigerian Pidgin - Russian
+Average Similarity: 3.95
+
+Pair: Ilocano - Polish
+Average Similarity: 3.95
+
+Pair: Albanian - Swahili
+Average Similarity: 3.95
+
+Pair: German - Tagalog
+Average Similarity: 3.95
+
+Pair: Malagasy - Portuguese
+Average Similarity: 3.95
+
+Pair: Catalan - Turkish
+Average Similarity: 3.95
+
+Pair: Nigerian Pidgin - Turkish
+Average Similarity: 3.94
+
+Pair: Albanian - Ukrainian
+Average Similarity: 3.94
+
+Pair: Belarusian - Swedish
+Average Similarity: 3.94
+
+Pair: Hungarian - Maori
+Average Similarity: 3.93
+
+Pair: Nigerian Pidgin - Polish
+Average Similarity: 3.93
+
+Pair: Norwegian - Tagalog
+Average Similarity: 3.93
+
+Pair: French - Malay
+Average Similarity: 3.92
+
+Pair: Cebuano - Czech
+Average Similarity: 3.92
+
+Pair: Dutch - Greek
+Average Similarity: 3.92
+
+Pair: Finnish - Nigerian Pidgin
+Average Similarity: 3.92
+
+Pair: Finnish - Hawaiian
+Average Similarity: 3.92
+
+Pair: Cebuano - Zulu
+Average Similarity: 3.92
+
+Pair: English - Turkish
+Average Similarity: 3.92
+
+Pair: Samoan - Turkmen
+Average Similarity: 3.91
+
+Pair: Maori - Turkish
+Average Similarity: 3.91
+
+Pair: Indonesian - Korean
+Average Similarity: 3.91
+
+Pair: Cebuano - Ukrainian
+Average Similarity: 3.91
+
+Pair: Catalan - Malagasy
+Average Similarity: 3.91
+
+Pair: Dutch - Icelandic
+Average Similarity: 3.91
+
+Pair: Catalan - Xhosa
+Average Similarity: 3.91
+
+Pair: Malay - Portuguese
+Average Similarity: 3.90
+
+Pair: Cebuano - Polish
+Average Similarity: 3.89
+
+Pair: Cebuano - Korean
+Average Similarity: 3.89
+
+Pair: Icelandic - Nigerian Pidgin
+Average Similarity: 3.88
+
+Pair: Albanian - Javanese
+Average Similarity: 3.88
+
+Pair: Icelandic - Malay
+Average Similarity: 3.88
+
+Pair: Albanian - Tagalog
+Average Similarity: 3.87
+
+Pair: Tagalog - Xhosa
+Average Similarity: 3.87
+
+Pair: Italian - Tongan
+Average Similarity: 3.87
+
+Pair: Icelandic - Maori
+Average Similarity: 3.87
+
+Pair: French - Swahili
+Average Similarity: 3.86
+
+Pair: Swedish - Ukrainian
+Average Similarity: 3.86
+
+Pair: Cebuano - Russian
+Average Similarity: 3.86
+
+Pair: Cebuano - Dutch
+Average Similarity: 3.86
+
+Pair: Afrikaans - Malagasy
+Average Similarity: 3.86
+
+Pair: Romanian - Xhosa
+Average Similarity: 3.86
+
+Pair: Czech - Nigerian Pidgin
+Average Similarity: 3.86
+
+Pair: Russian - Tagalog
+Average Similarity: 3.85
+
+Pair: English - Serbian
+Average Similarity: 3.85
+
+Pair: Malagasy - Polish
+Average Similarity: 3.85
+
+Pair: Danish - Malay
+Average Similarity: 3.84
+
+Pair: Ilocano - Korean
+Average Similarity: 3.84
+
+Pair: Tagalog - Turkmen
+Average Similarity: 3.84
+
+Pair: Danish - Finnish
+Average Similarity: 3.84
+
+Pair: English - Turkmen
+Average Similarity: 3.84
+
+Pair: Icelandic - Indonesian
+Average Similarity: 3.84
+
+Pair: French - Ukrainian
+Average Similarity: 3.84
+
+Pair: Afrikaans - Serbian
+Average Similarity: 3.83
+
+Pair: Maori - Xhosa
+Average Similarity: 3.83
+
+Pair: Afrikaans - Samoan
+Average Similarity: 3.82
+
+Pair: Icelandic - Turkmen
+Average Similarity: 3.82
+
+Pair: Serbian - Xhosa
+Average Similarity: 3.82
+
+Pair: Finnish - Serbian
+Average Similarity: 3.81
+
+Pair: English - Russian
+Average Similarity: 3.81
+
+Pair: Albanian - Belarusian
+Average Similarity: 3.81
+
+Pair: Albanian - Polish
+Average Similarity: 3.81
+
+Pair: Icelandic - Turkish
+Average Similarity: 3.81
+
+Pair: English - Hawaiian
+Average Similarity: 3.80
+
+Pair: Cebuano - Hungarian
+Average Similarity: 3.80
+
+Pair: Maori - Turkmen
+Average Similarity: 3.79
+
+Pair: Finnish - Malagasy
+Average Similarity: 3.79
+
+Pair: Czech - Malagasy
+Average Similarity: 3.78
+
+Pair: Albanian - Turkmen
+Average Similarity: 3.78
+
+Pair: Icelandic - Javanese
+Average Similarity: 3.78
+
+Pair: Albanian - Indonesian
+Average Similarity: 3.78
+
+Pair: Azerbaijani - Tagalog
+Average Similarity: 3.77
+
+Pair: Cebuano - German
+Average Similarity: 3.77
+
+Pair: Icelandic - Portuguese
+Average Similarity: 3.77
+
+Pair: Albanian - Turkish
+Average Similarity: 3.77
+
+Pair: Albanian - Czech
+Average Similarity: 3.76
+
+Pair: Icelandic - Italian
+Average Similarity: 3.76
+
+Pair: Korean - Tagalog
+Average Similarity: 3.75
+
+Pair: Italian - Zulu
+Average Similarity: 3.75
+
+Pair: Serbian - Tongan
+Average Similarity: 3.75
+
+Pair: Belarusian - Nigerian Pidgin
+Average Similarity: 3.75
+
+Pair: Korean - Nigerian Pidgin
+Average Similarity: 3.75
+
+Pair: Malagasy - Turkmen
+Average Similarity: 3.74
+
+Pair: Cebuano - Turkish
+Average Similarity: 3.74
+
+Pair: English - Polish
+Average Similarity: 3.73
+
+Pair: Finnish - Turkish
+Average Similarity: 3.73
+
+Pair: Hungarian - Nigerian Pidgin
+Average Similarity: 3.73
+
+Pair: Tagalog - Zulu
+Average Similarity: 3.73
+
+Pair: Azerbaijani - Samoan
+Average Similarity: 3.72
+
+Pair: Korean - Samoan
+Average Similarity: 3.72
+
+Pair: Greek - Tongan
+Average Similarity: 3.72
+
+Pair: Romanian - Tongan
+Average Similarity: 3.72
+
+Pair: English - Icelandic
+Average Similarity: 3.72
+
+Pair: Hungarian - Tagalog
+Average Similarity: 3.71
+
+Pair: Afrikaans - Polish
+Average Similarity: 3.71
+
+Pair: Azerbaijani - Italian
+Average Similarity: 3.71
+
+Pair: Malay - Xhosa
+Average Similarity: 3.71
+
+Pair: Maori - Zulu
+Average Similarity: 3.70
+
+Pair: Greek - Hungarian
+Average Similarity: 3.70
+
+Pair: Greek - Turkish
+Average Similarity: 3.70
+
+Pair: English - Swahili
+Average Similarity: 3.70
+
+Pair: Norwegian - Ukrainian
+Average Similarity: 3.69
+
+Pair: Belarusian - Javanese
+Average Similarity: 3.69
+
+Pair: Afrikaans - Belarusian
+Average Similarity: 3.69
+
+Pair: Korean - Malagasy
+Average Similarity: 3.69
+
+Pair: Hungarian - Turkish
+Average Similarity: 3.69
+
+Pair: Malagasy - Tongan
+Average Similarity: 3.69
+
+Pair: Indonesian - Xhosa
+Average Similarity: 3.69
+
+Pair: Malagasy - Romanian
+Average Similarity: 3.68
+
+Pair: Belarusian - Malay
+Average Similarity: 3.68
+
+Pair: Afrikaans - Russian
+Average Similarity: 3.68
+
+Pair: Hawaiian - Icelandic
+Average Similarity: 3.68
+
+Pair: Icelandic - Tagalog
+Average Similarity: 3.68
+
+Pair: Spanish - Tongan
+Average Similarity: 3.68
+
+Pair: Tagalog - Turkish
+Average Similarity: 3.68
+
+Pair: Icelandic - Swahili
+Average Similarity: 3.68
+
+Pair: Swahili - Swedish
+Average Similarity: 3.68
+
+Pair: Dutch - Serbian
+Average Similarity: 3.67
+
+Pair: Belarusian - Danish
+Average Similarity: 3.67
+
+Pair: Hawaiian - Turkish
+Average Similarity: 3.67
+
+Pair: Danish - Hungarian
+Average Similarity: 3.66
+
+Pair: Serbian - Zulu
+Average Similarity: 3.66
+
+Pair: Catalan - Tongan
+Average Similarity: 3.66
+
+Pair: Danish - Ukrainian
+Average Similarity: 3.66
+
+Pair: Tongan - Turkish
+Average Similarity: 3.66
+
+Pair: Belarusian - Norwegian
+Average Similarity: 3.65
+
+Pair: Hungarian - Serbian
+Average Similarity: 3.65
+
+Pair: Italian - Korean
+Average Similarity: 3.65
+
+Pair: Serbian - Turkish
+Average Similarity: 3.65
+
+Pair: German - Greek
+Average Similarity: 3.64
+
+Pair: Javanese - Portuguese
+Average Similarity: 3.64
+
+Pair: Azerbaijani - Swedish
+Average Similarity: 3.64
+
+Pair: Polish - Swedish
+Average Similarity: 3.64
+
+Pair: Icelandic - Romanian
+Average Similarity: 3.64
+
+Pair: Belarusian - Indonesian
+Average Similarity: 3.63
+
+Pair: Hungarian - Malagasy
+Average Similarity: 3.63
+
+Pair: Belarusian - French
+Average Similarity: 3.63
+
+Pair: Albanian - Malay
+Average Similarity: 3.63
+
+Pair: Malay - Zulu
+Average Similarity: 3.63
+
+Pair: Hungarian - Icelandic
+Average Similarity: 3.62
+
+Pair: Korean - Spanish
+Average Similarity: 3.62
+
+Pair: Hungarian - Turkmen
+Average Similarity: 3.62
+
+Pair: Dutch - Korean
+Average Similarity: 3.62
+
+Pair: Portuguese - Turkish
+Average Similarity: 3.61
+
+Pair: English - Ukrainian
+Average Similarity: 3.61
+
+Pair: English - Korean
+Average Similarity: 3.61
+
+Pair: Icelandic - Malagasy
+Average Similarity: 3.61
+
+Pair: Finnish - Icelandic
+Average Similarity: 3.61
+
+Pair: Czech - Swedish
+Average Similarity: 3.60
+
+Pair: Nigerian Pidgin - Ukrainian
+Average Similarity: 3.59
+
+Pair: Icelandic - Spanish
+Average Similarity: 3.58
+
+Pair: Hawaiian - Turkmen
+Average Similarity: 3.58
+
+Pair: Tongan - Turkmen
+Average Similarity: 3.58
+
+Pair: Hungarian - Swahili
+Average Similarity: 3.58
+
+Pair: Greek - Turkmen
+Average Similarity: 3.58
+
+Pair: Finnish - Portuguese
+Average Similarity: 3.57
+
+Pair: Indonesian - Zulu
+Average Similarity: 3.57
+
+Pair: Albanian - Hungarian
+Average Similarity: 3.57
+
+Pair: Korean - Maori
+Average Similarity: 3.57
+
+Pair: French - Polish
+Average Similarity: 3.56
+
+Pair: Danish - Polish
+Average Similarity: 3.56
+
+Pair: English - Xhosa
+Average Similarity: 3.56
+
+Pair: Azerbaijani - Nigerian Pidgin
+Average Similarity: 3.55
+
+Pair: German - Serbian
+Average Similarity: 3.55
+
+Pair: Finnish - Turkmen
+Average Similarity: 3.54
+
+Pair: Azerbaijani - Spanish
+Average Similarity: 3.54
+
+Pair: French - Korean
+Average Similarity: 3.54
+
+Pair: Azerbaijani - Malagasy
+Average Similarity: 3.54
+
+Pair: Finnish - Korean
+Average Similarity: 3.54
+
+Pair: Dutch - Samoan
+Average Similarity: 3.53
+
+Pair: Azerbaijani - Finnish
+Average Similarity: 3.52
+
+Pair: German - Korean
+Average Similarity: 3.52
+
+Pair: Nigerian Pidgin - Tongan
+Average Similarity: 3.52
+
+Pair: Norwegian - Polish
+Average Similarity: 3.52
+
+Pair: Malagasy - Xhosa
+Average Similarity: 3.52
+
+Pair: Spanish - Zulu
+Average Similarity: 3.52
+
+Pair: Afrikaans - Azerbaijani
+Average Similarity: 3.51
+
+Pair: French - Icelandic
+Average Similarity: 3.51
+
+Pair: Afrikaans - Xhosa
+Average Similarity: 3.51
+
+Pair: Javanese - Ukrainian
+Average Similarity: 3.51
+
+Pair: Korean - Swahili
+Average Similarity: 3.51
+
+Pair: Azerbaijani - Serbian
+Average Similarity: 3.51
+
+Pair: Greek - Xhosa
+Average Similarity: 3.51
+
+Pair: Korean - Romanian
+Average Similarity: 3.50
+
+Pair: Azerbaijani - Catalan
+Average Similarity: 3.50
+
+Pair: Finnish - Ukrainian
+Average Similarity: 3.50
+
+Pair: Belarusian - English
+Average Similarity: 3.50
+
+Pair: Malagasy - Turkish
+Average Similarity: 3.50
+
+Pair: Icelandic - Serbian
+Average Similarity: 3.50
+
+Pair: Javanese - Russian
+Average Similarity: 3.49
+
+Pair: Belarusian - Turkmen
+Average Similarity: 3.49
+
+Pair: Malagasy - Swedish
+Average Similarity: 3.48
+
+Pair: Finnish - Xhosa
+Average Similarity: 3.48
+
+Pair: Belarusian - Finnish
+Average Similarity: 3.48
+
+Pair: Korean - Serbian
+Average Similarity: 3.48
+
+Pair: Albanian - Finnish
+Average Similarity: 3.48
+
+Pair: Korean - Turkmen
+Average Similarity: 3.47
+
+Pair: Azerbaijani - Norwegian
+Average Similarity: 3.47
+
+Pair: Azerbaijani - Romanian
+Average Similarity: 3.47
+
+Pair: Albanian - Malagasy
+Average Similarity: 3.47
+
+Pair: Azerbaijani - Dutch
+Average Similarity: 3.47
+
+Pair: Catalan - Korean
+Average Similarity: 3.47
+
+Pair: Indonesian - Russian
+Average Similarity: 3.47
+
+Pair: Dutch - Russian
+Average Similarity: 3.46
+
+Pair: Czech - Norwegian
+Average Similarity: 3.45
+
+Pair: Malagasy - Zulu
+Average Similarity: 3.45
+
+Pair: Afrikaans - Zulu
+Average Similarity: 3.45
+
+Pair: Afrikaans - Korean
+Average Similarity: 3.45
+
+Pair: Azerbaijani - Tongan
+Average Similarity: 3.45
+
+Pair: Azerbaijani - Greek
+Average Similarity: 3.45
+
+Pair: Afrikaans - Swahili
+Average Similarity: 3.45
+
+Pair: French - Tongan
+Average Similarity: 3.44
+
+Pair: Azerbaijani - Icelandic
+Average Similarity: 3.44
+
+Pair: Turkish - Xhosa
+Average Similarity: 3.44
+
+Pair: Greek - Zulu
+Average Similarity: 3.43
+
+Pair: Romanian - Zulu
+Average Similarity: 3.43
+
+Pair: Nigerian Pidgin - Xhosa
+Average Similarity: 3.42
+
+Pair: Czech - Finnish
+Average Similarity: 3.42
+
+Pair: Finnish - Zulu
+Average Similarity: 3.42
+
+Pair: Korean - Tongan
+Average Similarity: 3.41
+
+Pair: Azerbaijani - Maori
+Average Similarity: 3.41
+
+Pair: Azerbaijani - English
+Average Similarity: 3.40
+
+Pair: Czech - Javanese
+Average Similarity: 3.40
+
+Pair: Indonesian - Ukrainian
+Average Similarity: 3.39
+
+Pair: Malay - Russian
+Average Similarity: 3.39
+
+Pair: Korean - Xhosa
+Average Similarity: 3.39
+
+Pair: English - Zulu
+Average Similarity: 3.39
+
+Pair: French - Malagasy
+Average Similarity: 3.39
+
+Pair: English - Tongan
+Average Similarity: 3.39
+
+Pair: Javanese - Polish
+Average Similarity: 3.39
+
+Pair: Czech - Xhosa
+Average Similarity: 3.38
+
+Pair: Malay - Ukrainian
+Average Similarity: 3.37
+
+Pair: Afrikaans - Czech
+Average Similarity: 3.37
+
+Pair: Dutch - Malagasy
+Average Similarity: 3.36
+
+Pair: Hungarian - Tongan
+Average Similarity: 3.36
+
+Pair: Catalan - Zulu
+Average Similarity: 3.36
+
+Pair: Portuguese - Xhosa
+Average Similarity: 3.35
+
+Pair: Czech - Dutch
+Average Similarity: 3.35
+
+Pair: Dutch - Xhosa
+Average Similarity: 3.35
+
+Pair: Norwegian - Swahili
+Average Similarity: 3.35
+
+Pair: Korean - Zulu
+Average Similarity: 3.34
+
+Pair: Afrikaans - Ukrainian
+Average Similarity: 3.33
+
+Pair: Korean - Norwegian
+Average Similarity: 3.33
+
+Pair: Afrikaans - Hawaiian
+Average Similarity: 3.33
+
+Pair: Korean - Swedish
+Average Similarity: 3.32
+
+Pair: Azerbaijani - Hungarian
+Average Similarity: 3.32
+
+Pair: Russian - Turkmen
+Average Similarity: 3.32
+
+Pair: Turkmen - Xhosa
+Average Similarity: 3.32
+
+Pair: Ukrainian - Xhosa
+Average Similarity: 3.32
+
+Pair: German - Swahili
+Average Similarity: 3.31
+
+Pair: Hungarian - Xhosa
+Average Similarity: 3.31
+
+Pair: Hawaiian - Korean
+Average Similarity: 3.30
+
+Pair: Czech - Indonesian
+Average Similarity: 3.30
+
+Pair: Norwegian - Xhosa
+Average Similarity: 3.30
+
+Pair: Nigerian Pidgin - Zulu
+Average Similarity: 3.30
+
+Pair: Azerbaijani - French
+Average Similarity: 3.30
+
+Pair: Hungarian - Korean
+Average Similarity: 3.30
+
+Pair: Korean - Turkish
+Average Similarity: 3.30
+
+Pair: Albanian - Xhosa
+Average Similarity: 3.29
+
+Pair: Albanian - Tongan
+Average Similarity: 3.29
+
+Pair: Czech - German
+Average Similarity: 3.29
+
+Pair: Albanian - Icelandic
+Average Similarity: 3.29
+
+Pair: Azerbaijani - Hawaiian
+Average Similarity: 3.29
+
+Pair: German - Xhosa
+Average Similarity: 3.29
+
+Pair: Dutch - Zulu
+Average Similarity: 3.28
+
+Pair: Azerbaijani - German
+Average Similarity: 3.27
+
+Pair: French - Zulu
+Average Similarity: 3.27
+
+Pair: Afrikaans - Tongan
+Average Similarity: 3.27
+
+Pair: Czech - Malay
+Average Similarity: 3.26
+
+Pair: Russian - Turkish
+Average Similarity: 3.26
+
+Pair: Belarusian - Hungarian
+Average Similarity: 3.26
+
+Pair: Belarusian - Tongan
+Average Similarity: 3.25
+
+Pair: Finnish - Russian
+Average Similarity: 3.25
+
+Pair: Turkmen - Zulu
+Average Similarity: 3.25
+
+Pair: Hungarian - Russian
+Average Similarity: 3.25
+
+Pair: Portuguese - Tongan
+Average Similarity: 3.25
+
+Pair: Malay - Polish
+Average Similarity: 3.24
+
+Pair: Turkish - Zulu
+Average Similarity: 3.24
+
+Pair: Czech - Turkmen
+Average Similarity: 3.24
+
+Pair: Greek - Korean
+Average Similarity: 3.24
+
+Pair: Swedish - Tongan
+Average Similarity: 3.23
+
+Pair: Turkmen - Ukrainian
+Average Similarity: 3.23
+
+Pair: Dutch - Polish
+Average Similarity: 3.22
+
+Pair: Korean - Portuguese
+Average Similarity: 3.22
+
+Pair: Norwegian - Zulu
+Average Similarity: 3.22
+
+Pair: Indonesian - Polish
+Average Similarity: 3.21
+
+Pair: Swedish - Xhosa
+Average Similarity: 3.21
+
+Pair: Swedish - Zulu
+Average Similarity: 3.20
+
+Pair: Hungarian - Zulu
+Average Similarity: 3.20
+
+Pair: German - Zulu
+Average Similarity: 3.20
+
+Pair: Russian - Xhosa
+Average Similarity: 3.20
+
+Pair: German - Samoan
+Average Similarity: 3.19
+
+Pair: Tongan - Ukrainian
+Average Similarity: 3.19
+
+Pair: Czech - Turkish
+Average Similarity: 3.19
+
+Pair: Albanian - Korean
+Average Similarity: 3.18
+
+Pair: Azerbaijani - Portuguese
+Average Similarity: 3.18
+
+Pair: Hungarian - Ukrainian
+Average Similarity: 3.18
+
+Pair: Czech - Icelandic
+Average Similarity: 3.17
+
+Pair: Icelandic - Russian
+Average Similarity: 3.17
+
+Pair: Belarusian - Xhosa
+Average Similarity: 3.17
+
+Pair: Belarusian - Dutch
+Average Similarity: 3.17
+
+Pair: Czech - Tongan
+Average Similarity: 3.16
+
+Pair: Icelandic - Ukrainian
+Average Similarity: 3.16
+
+Pair: Albanian - Zulu
+Average Similarity: 3.15
+
+Pair: Dutch - Ukrainian
+Average Similarity: 3.15
+
+Pair: Korean - Ukrainian
+Average Similarity: 3.15
+
+Pair: Dutch - Hawaiian
+Average Similarity: 3.14
+
+Pair: Portuguese - Zulu
+Average Similarity: 3.14
+
+Pair: Malagasy - Norwegian
+Average Similarity: 3.14
+
+Pair: Dutch - Swahili
+Average Similarity: 3.13
+
+Pair: Dutch - Tongan
+Average Similarity: 3.13
+
+Pair: Czech - Korean
+Average Similarity: 3.13
+
+Pair: Polish - Turkmen
+Average Similarity: 3.13
+
+Pair: Polish - Xhosa
+Average Similarity: 3.13
+
+Pair: Danish - Malagasy
+Average Similarity: 3.13
+
+Pair: Belarusian - Icelandic
+Average Similarity: 3.13
+
+Pair: Icelandic - Tongan
+Average Similarity: 3.13
+
+Pair: Czech - Danish
+Average Similarity: 3.12
+
+Pair: Belarusian - German
+Average Similarity: 3.12
+
+Pair: Azerbaijani - Danish
+Average Similarity: 3.12
+
+Pair: Azerbaijani - Korean
+Average Similarity: 3.12
+
+Pair: Czech - Zulu
+Average Similarity: 3.12
+
+Pair: Finnish - Polish
+Average Similarity: 3.11
+
+Pair: Norwegian - Tongan
+Average Similarity: 3.11
+
+Pair: German - Malagasy
+Average Similarity: 3.11
+
+Pair: Azerbaijani - Russian
+Average Similarity: 3.10
+
+Pair: Polish - Tongan
+Average Similarity: 3.10
+
+Pair: German - Russian
+Average Similarity: 3.09
+
+Pair: Albanian - Azerbaijani
+Average Similarity: 3.09
+
+Pair: Belarusian - Turkish
+Average Similarity: 3.08
+
+Pair: German - Polish
+Average Similarity: 3.07
+
+Pair: German - Maori
+Average Similarity: 3.06
+
+Pair: Turkish - Ukrainian
+Average Similarity: 3.06
+
+Pair: German - Tongan
+Average Similarity: 3.04
+
+Pair: Icelandic - Korean
+Average Similarity: 3.03
+
+Pair: Ukrainian - Zulu
+Average Similarity: 3.03
+
+Pair: Azerbaijani - Ukrainian
+Average Similarity: 3.03
+
+Pair: Danish - Swahili
+Average Similarity: 3.02
+
+Pair: Russian - Zulu
+Average Similarity: 3.01
+
+Pair: Danish - Korean
+Average Similarity: 3.01
+
+Pair: Hungarian - Polish
+Average Similarity: 3.00
+
+Pair: Belarusian - Zulu
+Average Similarity: 2.99
+
+Pair: Azerbaijani - Czech
+Average Similarity: 2.98
+
+Pair: Belarusian - Korean
+Average Similarity: 2.98
+
+Pair: Russian - Tongan
+Average Similarity: 2.98
+
+Pair: Polish - Zulu
+Average Similarity: 2.97
+
+Pair: Azerbaijani - Belarusian
+Average Similarity: 2.96
+
+Pair: Korean - Polish
+Average Similarity: 2.96
+
+Pair: Danish - Xhosa
+Average Similarity: 2.96
+
+Pair: Azerbaijani - Xhosa
+Average Similarity: 2.91
+
+Pair: Icelandic - Polish
+Average Similarity: 2.88
+
+Pair: German - Ukrainian
+Average Similarity: 2.87
+
+Pair: Danish - Zulu
+Average Similarity: 2.87
+
+Pair: Korean - Russian
+Average Similarity: 2.84
+
+Pair: Azerbaijani - Zulu
+Average Similarity: 2.81
+
+Pair: Danish - Tongan
+Average Similarity: 2.80
+
+Pair: Icelandic - Xhosa
+Average Similarity: 2.76
+
+Pair: Icelandic - Zulu
+Average Similarity: 2.75
+
+Pair: Polish - Turkish
+Average Similarity: 2.72
+
+Pair: German - Hawaiian
+Average Similarity: 2.71
+
+Pair: Azerbaijani - Polish
+Average Similarity: 2.64
+
